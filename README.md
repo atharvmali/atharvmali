@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 I love to code<br>🌱 I’m currently learning MERN Stack<br>
+<h1 align="center">Hi 👋, I'm Atharv Mali</h1>
+🔭 I love to code<br>🌱 I’m currently learning Core Java Programming and Full Stack Web Development<br>
+📫 How to reach me <a href="mailto:atharv.mali.1215@gmail.com">atharv.mali.1215@gmail.com</a>
 
 
 ## 🌐 Socials:

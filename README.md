@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I love to code<br>🌱 I’m currently learning Java Programming and Web Development<br>📫 How to reach me atharv.mali.1215@gmail.com
-<br> Portfolio - https://atharvmali.netlify.app/
+<br> Portfolio - <a href="https://atharvmali.netlify.app/" target="_blank">
 
 
 ## 🌐 Socials:

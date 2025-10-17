@@ -1,0 +1,19 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Pac-Man
+    steps:
+      - uses: actions/checkout@v3
+      - uses: athul/pacman-github-repo@v3
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # The output folder where the SVG files will be generated
+          OUTPUT_FOLDER: output

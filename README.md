@@ -22,6 +22,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QzZzFhb2dnOG5raGg5cmhnNm92bWpncno3NW8zem1mZTNtN2RodyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
 
 ###
@@ -80,11 +82,15 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=atharvmali.atharvmali&"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvmali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -95,6 +101,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharvmali/atharvmali/output/pacman-contribution-graph-dark.svg">

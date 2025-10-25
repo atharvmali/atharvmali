@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I enjoy building solutions to real-world problems.<br>🌱 I’m currently learning Java Programming and Web Development<br>📫 How to reach me - <a href="mailto:atharv.mali.1215@gmail.com">email</a><br>Portfolio - <a href = "https://atharvmali.netlify.app/"> atharvmali </a></p>
+<p align="left">🔭 I enjoy building solutions to real-world problems.<br>🌱 I’m currently learning DevOps and Web3<br>📫 How to reach me - <a href="mailto:atharv.mali.1215@gmail.com">email</a><br>Portfolio - <a href = "https://atharvmali.netlify.app/"> atharvmali </a></p>
 
 ###
 

@@ -91,10 +91,10 @@
 
   
 <!-- Top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvmali&theme=dark&layout=compact)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvmali&theme=dark&layout=compact) -->
 
   <!-- Core stats (simplified query to avoid extra params that sometimes break) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvmali&theme=dark&show_icons=true)
+<!--  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvmali&theme=dark&show_icons=true)  -->
 
 
 <!-- Contribution streak (original service sometimes breaks) -->
